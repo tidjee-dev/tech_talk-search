@@ -1,6 +1,6 @@
 # Exemples de requêtes sur Google
 
-[Retour au menu](./README.md)
+[Retour au README](./README.md)
 
 ## Opérateurs logiques
 
