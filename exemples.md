@@ -23,3 +23,17 @@
 |  `intitle:` | Recherche des termes dans les titres de pages  | <a href="https://www.google.com/search?q=intitle:%22guide+CSS%22" target="_blank">`intitle:"guide CSS"`</a>                                 |
 |   `insite:` | Recherche des termes dans le contenu des pages | <a href="https://www.google.com/search?q=insite:CSS" target="_blank">`insite:CSS`</a>                                                       |
 | `filetype:` | Recherche des fichiers d'un type particulier   | <a href="https://www.google.com/search?q=guide+filetype:pdf" target="_blank">`guide filetype:pdf`</a>                                       |
+
+## Opérateurs arithmétiques
+
+|               Type | Description    | Exemple              |
+| -----------------: | -------------- | -------------------- |
+|                `+` | Addition       | `1+2`                |
+|                `-` | Soustraction   | `1-2`                |
+|                `*` | Multiplication | `1*2`                |
+|                `/` | Division       | `1/2`                |
+|                `^` | Exposant       | `2^3`                |
+| `sqrt()` ou `^1/2` | Racine carree  | `sqrt(4)` ou `4^1/2` |
+|             `^1/3` | Racine cubique | `8^1/3`              |
+|                `%` | Modulo         | `5%2`                |
+|                `!` | Factorielle    | `5!`                 |

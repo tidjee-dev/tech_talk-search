@@ -4,17 +4,17 @@
 
 Effectuer des recherches efficaces sur Google est une compétence essentielle pour les développeurs web. Que ce soit pour résoudre un problème technique, approfondir vos connaissances ou découvrir de nouvelles ressources, savoir utiliser les outils et fonctionnalités de recherche avancée peut considérablement améliorer votre productivité.
 
-Voici quelques conseils pratiques pour optimiser vos recherches sur Google.
+Voici quelques conseils pratiques pour optimiser les recherches sur Google.
 
 ## 1. Utiliser des mots-clés pertinents
 
 - **Simplicité** : Privilégiez des termes simples et précis qui décrivent clairement ce que vous recherchez.
-- **Spécificité** : Ajoutez des détails spécifiques pour affiner vos résultats.
+- **Spécificité** : Ajoutez des détails spécifiques pour affiner les résultats.
 - **Synonymes et variantes** : Si les résultats ne sont pas satisfaisants, essayez des synonymes ou des termes similaires.
 
 ## 2. Utiliser les opérateurs de recherche avancée
 
-Google propose des opérateurs puissants pour filtrer et affiner vos recherches, en incluant ou en excluant certains critères. Voici un récapitulatif des principaux opérateurs :
+Google propose des opérateurs puissants pour filtrer et affiner les recherches, en incluant ou en excluant certains critères. Voici un récapitulatif des principaux opérateurs :
 
 ### **Opérateurs logiques**
 
@@ -51,15 +51,40 @@ Google propose des opérateurs puissants pour filtrer et affiner vos recherches,
 ### **Filtrer les résultats**
 
 - **`site:`** : Limite la recherche à un site spécifique.
+
   Exemple : `JavaScript site:developer.mozilla.org`.
+
 - **`inurl:`** : Recherche des termes dans l'URL des pages.
+
   Exemple : `inurl:API`.
+
 - **`intitle:`** : Recherche des termes dans les titres de pages.
+
   Exemple : `intitle:"guide CSS"`.
+
 - **`insite:`** : Recherche des termes dans le contenu des pages.
+
   Exemple : `insite:CSS`.
+
 - **`filetype:`** : Recherche des fichiers d'un type particulier.
+
   Exemple : `guide filetype:pdf`.
+
+### **Opérations arithmétiques et équations**
+
+- **Résolution arithématique** : Calculer des expressions arithématiques.
+
+  On peut utiliser de nombreux opérateurs arithmétiques tels que `+`, `-`, `*`, `/`, `^`, `!`, `sqrt()`, `^1/2`, `^1/3`, `%`, etc.
+
+  Exemple : `2 + 3 * 4`.
+
+- **Résolution de equations** : Rechercher des solutions aux equations.
+
+  Exemple : `x^2 + 6 = 17`.
+
+- **Affichage de graphiques** : Afficher des graphiques.
+
+  Exemple : `graph(x^2)`.
 
 ## 3. Affiner les résultats avec les outils de recherche
 
@@ -69,29 +94,12 @@ Après avoir effectué une recherche, utilisez les outils de Google pour filtrer
 - **Langue et région** : Filtrez les résultats par langue ou région pour obtenir des contenus spécifiques.
 - **Type de contenu** : Choisissez entre les catégories comme _"images"_, _"vidéos"_, ou _"actualités"_.
 
-## 4. Exploiter les suggestions de recherche
-
-Google propose des suggestions basées sur vos termes de recherche. Ces suggestions peuvent vous aider à formuler des requêtes plus pertinentes. Par exemple, en tapant _"apprendre JavaScript"_, vous verrez des suggestions comme _"apprendre JavaScript pour débutants"_ ou _"tutoriel JavaScript ES6"_.
-
-## 5. Explorer les résultats en profondeur
-
-- **Lisez plusieurs sources** : Ne vous contentez pas du premier résultat, explorez plusieurs pages pour comparer les informations.
-- **Forums et communautés** : Des sites comme Stack Overflow, Reddit ou des forums spécialisés peuvent offrir des réponses concrètes basées sur l’expérience des autres développeurs.
-
-## 6. Utiliser Google Lens et la recherche par image
-
-Pour des recherches visuelles, Google Lens et la recherche par image peuvent être très utiles. Par exemple, pour identifier une technologie à partir d'une capture d'écran, utilisez ces outils pour obtenir des informations pertinentes.
-
-## 7. Exploiter les autres produits Google
-
-- **Google Scholar** : Pour des articles académiques et des publications techniques.
-- **Google Books** : Pour accéder à des extraits de livres techniques.
-- **Google Trends** : Pour analyser les tendances et popularités des termes de recherche.
-
 ## Exemples
 
 [Voir les exemples](./exemples.md)
 
 ## Conclusion
 
-Maîtriser les techniques de recherche sur Google peut vous faire gagner un temps précieux et améliorer vos compétences en résolution de problèmes. Appliquer ces astuces dans vos recherches quotidiennes maximisera votre efficacité.
+Maîtriser les techniques de recherche sur Google peut vous faire gagner beaucoup de temps.
+
+Et n'oubliez pas, `précision` et `concision` sont essentiels pour optimiser les recherches sur Google.
